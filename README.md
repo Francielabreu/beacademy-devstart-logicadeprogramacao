@@ -1,5 +1,5 @@
-
-## Entregaveis do Modulo de logica de progamação
+# LOGICA DE PROGAMAÇÃO
+## Exercicios do Modulo de logica de progamação 🚀
 
 
 [1 -Leitura variaveis](./exercicios/EXERCICIO_1.ALG)
