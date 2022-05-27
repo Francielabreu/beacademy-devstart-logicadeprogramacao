@@ -42,3 +42,11 @@
 
 [20 -Exercicio de  com do-while (com interrupção)](exercicios/EXERCICIO_20.ALG)
 
+[21 -Exercicio de Vetores, listagem de alunos](exercicios/EXERCICIO_21.ALG)
+
+[22 -Exercicio de Vetores, trabalhado com indices](exercicios/EXERCICIO_22.ALG)
+
+[23 -Exercicio lista de clientes e produtos](exercicios/EXERCICIO_23.ALG)
+
+[24 -Exercicio de matriz ](exercicios/EXERCICIO_24.ALG)
+
