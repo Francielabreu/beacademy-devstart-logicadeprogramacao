@@ -56,7 +56,7 @@
 ## Professor 
 - [Marcos Monteiro](https://www.github.com/)
 
-## Aluno do Devstart Paylivre
+## Aluno DevStart PayLivre
 
 - [Franciel abreu](https://www.github.com/Francielabreu)
 
