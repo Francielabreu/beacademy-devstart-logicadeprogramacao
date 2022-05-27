@@ -1,4 +1,5 @@
 # LOGICA DE PROGAMAÇÃO
+
 ## Exercicios do Modulo de logica de progamação 🚀
 
 
@@ -49,4 +50,13 @@
 [23 -Exercicio lista de clientes e produtos](exercicios/EXERCICIO_23.ALG)
 
 [24 -Exercicio de matriz ](exercicios/EXERCICIO_24.ALG)
+
+
+
+## Professor 
+- [Marcos Monteiro](https://www.github.com/)
+
+## Aluno do Devstart Paylivre
+
+- [Franciel abreu](https://www.github.com/Francielabreu)
 
