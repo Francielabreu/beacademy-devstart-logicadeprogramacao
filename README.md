@@ -1,6 +1,6 @@
-# LOGICA DE PROGAMAÇÃO
+# LOGICA DE PROGRAMAÇÃO
 
-## Exercicios do Modulo de logica de progamação 🚀
+## Exercicios do Modulo de logica de programação 🚀
 
 
 [1 -Leitura variaveis](./exercicios/EXERCICIO_1.ALG)
